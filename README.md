@@ -37,11 +37,11 @@ After loging into Remote Desktop, I accessed osTicket using Internet Information
 
 <p>
 <img src="https://github.com/user-attachments/assets/56e0cb58-bf3c-4885-9011-f8c7a6ea9213"/>
-<img src="https://github.com/user-attachments/assets/501b10c7-a2d8-48c9-89be-9dfbe65a3ec1"/>
+<img src="https://github.com/user-attachments/assets/8ddbd5cb-0084-4779-b0a6-abdf360f065c"/>
 <img src="https://github.com/user-attachments/assets/6c44bdb3-dcb5-45ad-a24c-82f1b5ef6cc3"/>
 </p>
 <p>
-In this stage, I went to the Admin panel, clicked Agents, then Roles, and created a new role called "Supreme Admin" with all necessary permissions. After that, I went back to Agents, clicked Departments, and created a new department named "SysAdmins" with the parent "Support Department". Finally, I returned to Agents, clicked on Teams, and created a new team named "Online Banking".
+In this stage, I went to the Admin panel, clicked Agents, then Roles, and created a new role called "Supreme Admin" with all necessary permissions. After that, I went back to Agents, clicked Departments, and created a new department named "SysAdmins" with the parent "Top Level Department". Finally, I returned to Agents, clicked on Teams, and created a new team named "Online Banking".
 </p>
 <br />
 
